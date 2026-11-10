@@ -9,6 +9,7 @@ A real-time WebGL inspection platform engineered to deconstruct high-performance
 <p align="center">
   <img src="assets/brand/cario-uncompromised-architecture.png" alt="CARIO — Uncompromised Architecture Launch Poster" width="80%">
 </p>
+<img width="825" height="1024" alt="image" src="https://github.com/user-attachments/assets/e0df3a1b-04c7-4163-8e78-959969fa14e9" />
 
 ---
 
@@ -155,6 +156,7 @@ cario/
 - [ ] **Dynamic LOD Loading:** Automated level-of-detail model streaming based on client device capability.
 
 ---
+<img width="825" height="1024" alt="image" src="https://github.com/user-attachments/assets/17dba04c-5e8f-4e36-83e4-de2eeb2aefd6" />
 
 ## Project Metadata
 
